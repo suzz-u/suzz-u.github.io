@@ -1,4 +1,8 @@
-# suzz-u.github.io
+---
+layout: default
+title: LWC コマンドリスト
+---
+
 # LWC コマンドリスト
 
 ## 基本コマンド（一般プレイヤー用）
