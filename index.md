@@ -1,8 +1,9 @@
----
-layout: default
-title: ホーム
+# minto wiki
+
+
 ---
 
-# テストページ
+## 内部リンク
 
-**[LWCコマンドリストはこちら](LWC.md)**
+* **[LWC.md](./LWC.md)**
+    * LWC WIKI
