@@ -1,6 +1,6 @@
-# Minto Documents
+# minto documents
 
-このページは Minto プロジェクト用の簡易ドキュメント索引です。各ページへは下の内部リンクから移動してください。
+minto's document site
 
 ---
 
