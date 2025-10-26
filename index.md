@@ -1,9 +1,13 @@
-# minto wiki
+# Minto Documents
 
+このページは Minto プロジェクト用の簡易ドキュメント索引です。各ページへは下の内部リンクから移動してください。
 
 ---
 
-## 内部リンク
+## 目次（内部リンク）
 
-* **[LWC.md](./LWC.md)**
-    * LWC WIKI
+* [LWC](./Wiki/LWC.md) — LWC に関する WIKI
+
+---
+
+最終更新: 2025-10-26
