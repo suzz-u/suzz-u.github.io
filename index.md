@@ -13,4 +13,4 @@ minto's document site
 
 ---
 
-最終更新: 2025-10-26
+Last Updated 2025.10.27
