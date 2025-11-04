@@ -12,6 +12,7 @@ minto's document site
 * [LunaChat Guide](./Wiki/LunaChat_U.md) ー LunaChatの使い方
 * [economyshop Command](./Wiki/economyshops_u.md) ー Economyshop Guide Premium
 * [economyshop Command](./Wiki/economyshops_free_u.md) ー Economyshop Guide Free
+* [WorldEdit Command](./Wiki/WorldEdit_U.md) ー WorldEdit Command&使い方
 
 ---
 
