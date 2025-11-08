@@ -1,4 +1,4 @@
-# EconomyShopGUI (Free版) コマンド一覧
+# EconomyShopGUI (無料版) コマンド一覧
 
 このドキュメントは、EconomyShopGUIの**無料版**で利用可能な主要コマンドと権限名をまとめたものです。
 
